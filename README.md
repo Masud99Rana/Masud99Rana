@@ -10,7 +10,7 @@
 
 ### 🌟 About Me  
 
-🚀 **Software Engineer | Innovator | Lifelong Learner**  
+🚀 **Senior Software Engineer | Innovator | Lifelong Learner**  
 🎯 Passionate about designing and delivering **high-performance software solutions**.  
 🛠️ Skilled in **JavaScript**, **PHP**, and cutting-edge frameworks.  
 📈 Striving to bridge creativity with technology to craft seamless user experiences.  
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Professional Summary  
 
-![Software Development](https://img.shields.io/badge/Software_Development-Full_Stack-blue?style=for-the-badge)  
+![Software Development](https://img.shields.io/badge/Software_Development-Senior_Software_Engineer-blue?style=for-the-badge)  
 - 🌐 5+ years of hands-on experience in **full-stack development**.  
 - 💻 Proficient in building scalable systems for **E-commerce**, **POS**, and more.  
 - 🌍 Thrives in collaborative, innovative, and fast-paced environments.  
