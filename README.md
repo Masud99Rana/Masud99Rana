@@ -93,7 +93,7 @@
 ## 💼 Let's Connect!  
 
 Feel free to reach out if you’re interested in collaborating or have exciting opportunities to discuss!  
-🌟 GitHub: [github.com/Masud99Rana](https://github.com/Masud99Rana)  
+🌟 Contact: +880 1885-544-345   
 🌟 LinkedIn: [linkedin.com/in/MasudRana99mr](https://www.linkedin.com/in/MasudRana99mr)  
 🌟 Email: [MasudRana799MR@gmail.com](mailto:MasudRana799MR@gmail.com)  
 
