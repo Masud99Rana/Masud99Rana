@@ -29,13 +29,21 @@
 
 ## 🏢 Professional Experience  
 
-### 🟢 **Antooba Technologies Ltd (On Virtual World)**  
+### 🟢 **On Virtual World**  
 **Software Engineer** | Dhaka, Bangladesh  
-⏳ **Nov 2021 – Present**  
+⏳ **Jan 2024 – Present**  
+- Leading backend development and contributing to system architecture decisions for scalable, high-performance applications.
+- Mentoring junior engineers, conducting code reviews and enforcing SOLID principles, clean architecture and best practices.
+- Driving microservices adoption, improving system scalability and maintainability.
+- Collaborating with cross-functional teams to deliver reliable, production-grade systems in Agile environments.
+
+### 🟣 **Antooba Technologies Ltd**  
+**Software Engineer** | Dhaka, Bangladesh  
+⏳ **Nov 2021 – Dec 2023**  
 - Designed and deployed cloud-based software solutions.  
 - Developed RESTful APIs and integrated payment & SMS gateways.  
-- Built custom systems like **wallets**, **gift cards**, and freelancer platforms.  
-
+- Built custom systems like **wallets**, **gift cards**, and freelancer platforms.
+  
 ### 🟠 **Increments Inc**  
 **Software Engineer** | Dhaka, Bangladesh  
 ⏳ **April 2021 – Oct 2021**  
