@@ -9,51 +9,12 @@
 
 
 ### 🌟 About Me  
-
-🚀 **Senior Software Engineer | Innovator | Lifelong Learner**  
-🎯 Passionate about designing and delivering **high-performance software solutions**.  
-🛠️ Skilled in **JavaScript**, **PHP**, and cutting-edge frameworks.  
-📈 Striving to bridge creativity with technology to craft seamless user experiences.  
-
----
-
-## 🧑‍💻 Professional Summary  
-
-![Software Development](https://img.shields.io/badge/Software_Development-Senior_Software_Engineer-blue?style=for-the-badge)  
-- 🌐 5+ years of hands-on experience in **full-stack development**.  
-- 💻 Proficient in building scalable systems for **E-commerce**, **POS**, and more.  
-- 🌍 Thrives in collaborative, innovative, and fast-paced environments.  
-- 🎨 Obsessed with **clean code**, **optimization**, and **end-user satisfaction**. 
+🚀 **Software Engineer (Full-Stack) | Problem Solver | Continuous Learner**  
+🎯 Passionate about building scalable full-stack applications and high-performance APIs.
+🛠️ Skilled in Node.js, Laravel, React, Vue.js, and modern web technologies.
+📈 Focused on crafting resilient architectures, seamless user experiences, and clean, maintainable code.
 
 ---
-
-## 🏢 Professional Experience  
-
-### 🟢 **On Virtual World**  
-**Senior Software Engineer** | Dhaka, Bangladesh  
-⏳ **Jan 2024 – Present**  
-- Leading backend development and contributing to system architecture decisions for scalable, high-performance applications.
-- Mentoring junior engineers, conducting code reviews and enforcing SOLID principles, clean architecture and best practices.
-- Driving microservices adoption, improving system scalability and maintainability.
-- Collaborating with cross-functional teams to deliver reliable, production-grade systems in Agile environments.
-
-### 🟣 **Antooba Technologies Ltd**  
-**Software Engineer** | Dhaka, Bangladesh  
-⏳ **Nov 2021 – Dec 2023**  
-- Designed and deployed cloud-based software solutions.  
-- Developed RESTful APIs and integrated payment & SMS gateways.  
-- Built custom systems like **wallets**, **gift cards**, and freelancer platforms.
-  
-### 🟠 **Increments Inc**  
-**Software Engineer** | Dhaka, Bangladesh  
-⏳ **April 2021 – Oct 2021**  
-- Created and deployed scalable backend systems with **Node.js** and **Laravel**.  
-- Designed E-commerce platforms, POS systems, and sports portals.  
-
-### 🔵 **Fiverr**  
-**Freelancer** | Jan 2018 – March 2021  
-- Specialized in **WordPress** theme/plugin development.  
-- Deployed scalable systems for global clients.  
 
 ---
 
