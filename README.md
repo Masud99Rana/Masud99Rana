@@ -19,10 +19,9 @@
 ## 📊 Skills and Tools  
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart)  
-![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,react,nestjs,vue,nuxtjs,flutter,redux,nuxt,bootstrap,tailwind)  
+![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,react,vue,nuxtjs,flutter,redux,bootstrap,tailwind)  
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)  
-![DevOps](https://skillicons.dev/icons?i=docker,aws,nginx)  
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,wordpress,kafka,rabbitmq,vite,vitest)  
+![DevOps](https://skillicons.dev/icons?i=docker,aws,nginx,git,github,githubactions,wordpress,kafka,rabbitmq,vite,vitest)  
 
 ### 📂 Key Proficiencies  
 - **Languages:** JavaScript, TypeScript, PHP, Dart, C  
