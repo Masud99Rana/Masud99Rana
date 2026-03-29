@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 📊 Skills and Tools  
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart)  
