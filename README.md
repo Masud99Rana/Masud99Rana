@@ -40,6 +40,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud99Rana&layout=compact&theme=radical)](https://github.com/Masud99Rana)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Masud99Rana&theme=radical)  
 
+![](https://github-readme-stats.vercel.app/api?username=Masud99Rana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Masud99Rana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud99Rana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ---
 
 ## 🎓 Education  
