@@ -10,8 +10,8 @@
 
 ### 🌟 About Me  
 🚀 **Software Engineer (Full-Stack) | Problem Solver | Continuous Learner**  
-🎯 Passionate about building scalable full-stack applications and high-performance APIs.
-🛠️ Skilled in Node.js, Laravel, React, Vue.js, and modern web technologies.
+🎯 Passionate about building scalable full-stack applications and high-performance APIs.  
+🛠️ Skilled in Node.js, Laravel, React, Vue.js, and modern web technologies.  
 📈 Focused on crafting resilient architectures, seamless user experiences, and clean, maintainable code.
 
 ---
