@@ -20,7 +20,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart)  
 ![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,react,nextjs,vue,nuxtjs,flutter,redux,bootstrap,tailwind)  
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)  
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite)  
 ![DevOps](https://skillicons.dev/icons?i=docker,aws,nginx,git,github,githubactions,wordpress,kafka,rabbitmq,vite,vitest,webpack)  
 
 ### 📂 Key Proficiencies  
