@@ -19,14 +19,14 @@
 ## 📊 Skills and Tools  
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,php,c,dart)  
-![Frameworks](https://skillicons.dev/icons?i=react,next,vue,flutter,laravel,express)  
+![Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,react,nestjs,vue,nuxtjs,flutter,redux,nuxt,bootstrap,tailwind)  
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)  
 ![DevOps](https://skillicons.dev/icons?i=docker,aws,nginx)  
-![Others](https://skillicons.dev/icons?i=git,wordpress)  
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,wordpress,kafka,rabbitmq,vite,vitest)  
 
 ### 📂 Key Proficiencies  
 - **Languages:** JavaScript, TypeScript, PHP, Dart, C  
-- **Backend Frameworks:** Node.js, Laravel, Nest.js, ExpressJs, NestJs
+- **Backend Frameworks:** Node.js, Laravel, Nest.js, Express.js
 - **Frontend Libraries:** React.js, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS  
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Redis  
 - **Tools:** Docker, Nginx, CI/CD, PM2, AWS, Digital Ocean  
