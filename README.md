@@ -25,12 +25,6 @@
 
 ### 📂 Key Proficiencies  
 - **Languages:** JavaScript, TypeScript, PHP, Dart, C  
-- **Backend Frameworks:** Node.js, Laravel, Nest.js, Express.js
-- **Frontend Libraries:** React.js, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS  
-- **Database Management:** MySQL, PostgreSQL, MongoDB, Redis  
-- **Tools:** Docker, Nginx, CI/CD, PM2, AWS, Digital Ocean
-
-- **Languages:** JavaScript, TypeScript, PHP, Dart, C  
 - **Backend:** Node.js (ExpressJs, NestJS), Laravel, Lumen, CodeIgniter  
 - **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Redux, Vuex, Tailwind CSS, Bootstrap  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
