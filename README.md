@@ -28,7 +28,15 @@
 - **Backend Frameworks:** Node.js, Laravel, Nest.js, Express.js
 - **Frontend Libraries:** React.js, Vue.js, Nuxt.js, Bootstrap, Tailwind CSS  
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Redis  
-- **Tools:** Docker, Nginx, CI/CD, PM2, AWS, Digital Ocean  
+- **Tools:** Docker, Nginx, CI/CD, PM2, AWS, Digital Ocean
+
+- **Languages:** JavaScript, TypeScript, PHP, Dart, C  
+- **Backend:** Node.js (ExpressJs, NestJS), Laravel, Lumen, CodeIgniter  
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Redux, Vuex, Tailwind CSS, Bootstrap  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+- **DevOps & Cloud**: Docker, CI/CD (GitHub Actions), AWS, DigitalOcean, Nginx, PM2, Load Balancing  
+- **Testing:** Jest, Mocha, Chai, Vitest, PHPUnit, TDD  
+- **Others:** Microservices, REST APIs, JWT, Socket.io, Design Patterns, OOP, WordPress Development  
 
 ---
 
